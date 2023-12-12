@@ -1,3 +1,7 @@
+# James Alan Bush (SU200619708)
+# CIS261
+# Week 6 - Lab Assigment - Movie Guide Part 2
+
 # Function to display the menu
 def display_menu():
     print("""
